@@ -1,23 +1,24 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Adivinhação',
+    'Começa com C, é enrugado e todo mundo tem na parte de trás. Oque é? '
+    'Cotovelo'
+
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual parte do corpo de um homem pode aumentar até 7 vezes seu tamanho? '
+    'a pupila.'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Entra duro e seco e sai macio e úmido. O que é?',
+    'Chiclete'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Tem pelos em cima e embaixo e, no meio, se vê um buraco úmido. O que é? ',
+    'Olho'
 )
